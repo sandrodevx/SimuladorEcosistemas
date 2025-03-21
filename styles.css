@@ -1,0 +1,59 @@
+/* styles.css */
+body {
+  background-color: #f4f4f4;
+  font-family: "Arial", sans-serif;
+}
+
+.ecosystem-display {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 20px;
+  background-color: #e0f7fa;
+  border-radius: 10px;
+  min-height: 200px;
+}
+
+.ecosystem-element {
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+/* Colores y animaciones para cada tipo de elemento */
+.lobo {
+  background-color: #8e44ad;
+}
+
+.conejo {
+  background-color: #e67e22;
+}
+
+.árbol {
+  background-color: #27ae60;
+}
+
+.agua {
+  background-color: #3498db;
+}
+
+/* Animación de entrada */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Efecto hover para los elementos */
+.ecosystem-element:hover {
+  transform: scale(1.1);
+  transition: transform 0.2s ease-in-out;
+}
