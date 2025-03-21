@@ -33,7 +33,7 @@
    - Pasa el mouse sobre los elementos para ver un efecto de escala.
    - Observa las animaciones de entrada cuando se agregan nuevos elementos.
 
-## Instalación y Ejecución 🛠️
+## Instalación y Ejecución 
 
 1. Clona el repositorio:
    ```bash
