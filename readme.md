@@ -1,22 +1,22 @@
-# Simulador de Ecosistemas 🌿🐺
+# Simulador de Ecosistemas 
 
 ¡Bienvenido al **Simulador de Ecosistemas**! Este proyecto es una aplicación web interactiva que te permite crear y visualizar un ecosistema virtual. Puedes agregar elementos como lobos, conejos, árboles y agua, y observar cómo interactúan en tiempo real.
 
-## Características Principales 🚀
+## Características Principales 
 
 - **Agregar Elementos**: Añade lobos, conejos, árboles y agua al ecosistema.
 - **Estadísticas en Tiem Real**: Visualiza la cantidad de cada elemento en el ecosistema.
 - **Diseño Responsive**: Desarrollado con Bootstrap para una experiencia óptima en cualquier dispositivo.
 - **Animaciones y Efectos Visuales**: Interfaz atractiva con animaciones de entrada y efectos hover.
 
-## Tecnologías Utilizadas 🛠️
+## Tecnologías Utilizadas 
 
 - **HTML**: Estructura del proyecto.
 - **CSS**: Estilos personalizados y animaciones.
 - **Bootstrap**: Diseño responsive y componentes predefinidos.
 - **JavaScript**: Lógica del simulador y manipulación del DOM.
 
-## Cómo Usar 🖥️
+## Cómo Usar 
 
 1. **Agregar Elementos**:
 
